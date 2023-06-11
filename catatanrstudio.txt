@@ -1,0 +1,3 @@
+- untuk mengubah working directory 
+  pilih Files (sebelah kanan) -> pilih titik tiga (go to directory) -> tentukan folder -> pilih set as working directory di More
+- jika kita ingin membaca file (csv, xlsx) maka file tersebut harus kita tempatkan di working directory
